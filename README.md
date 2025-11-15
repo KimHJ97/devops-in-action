@@ -12,3 +12,10 @@ DevOps와 Infra 관련 내용을 정리한다.
  - ../_Concept 폴더: 관련 개념 정리
  - ../_Usage 폴더: 관련 상황별 사용 예제 정리
 
+```bash
+# 현재 경로에 레포 이름 폴더에 클론 받기
+git clone https://github.com/KimHJ97/devops-in-action.git
+
+# 현재 경로 자체에 클론 받기
+git clone https://github.com/KimHJ97/devops-in-action.git .
+```
